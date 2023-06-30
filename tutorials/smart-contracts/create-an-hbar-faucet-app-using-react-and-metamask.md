@@ -7,9 +7,9 @@ Enabling the opportunity to connect to a decentralized application (dApp) with d
 ## Prerequisites
 
 * Create a Hedera Testnet account [here](../../getting-started/introduction.md).
-* Install the [MetaMask Chrome extension](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en).&#x20;
+* Install the [MetaMask Chrome extension](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en).
 * Basic understanding of [TypeScript](https://www.typescriptlang.org/) and [React](https://react.dev/).
-* Set up your environment and create your client [here](../../getting-started/environment-set-up.md).&#x20;
+* Set up your environment and create your client [here](../../getting-started/environment-set-up.md).
 
 #### What we will do:
 
@@ -259,7 +259,7 @@ You can learn and read more about [parent and child transactions ](https://docs.
 
 _**Note: For security purposes, the account sending the tokens should be on a backend server, but for simplicity, it will be on the frontend. This is a reminder that private keys should never be exposed on the frontend, as that is the easiest way to lose control of your account.**_
 
-## Send HBAR to MetaMask Wallet
+## Send U2U to MetaMask Wallet
 
 We’ve written the code necessary to connect our application to MetaMask and installed the Hedera JavaScript SDK. Now it’s time to focus on connecting all the parts and sending HBAR to our MetaMask wallet.
 
@@ -399,8 +399,7 @@ After you click on it, the MetaMask pop-up window will open, and you will be ask
 
 Choose the account that you would like to connect to this application.
 
-_**Debugging tip: If you have previously connected your account to this dApp and clicking connect is not opening the wallet, disconnect all the connected accounts and then try again**_\
-
+_**Debugging tip: If you have previously connected your account to this dApp and clicking connect is not opening the wallet, disconnect all the connected accounts and then try again**_\\
 
 <figure><img src="https://images.hedera.com/image4_2023-03-24-024854_lcek.png?w=355&#x26;auto=compress%2Cformat&#x26;fit=crop&#x26;dm=1680226527&#x26;s=32024236e053fa8f8ca2aea05922d3db" alt=""><figcaption></figcaption></figure>
 
@@ -412,7 +411,7 @@ Once connected, send HBAR by clicking on the ‘_SEND HBAR TO METAMASK_’ butto
 
 Congratulations! **🎉** You successfully followed the tutorial to create an HBAR faucet for MetaMask and a Hedera React application that integrates with MetaMask!
 
-You learned how to build a transfer transaction that sends an amount of HBAR through the Hedera Testnet to a MetaMask account. This can also be applied to other applications, and I encourage all to keep building.&#x20;
+You learned how to build a transfer transaction that sends an amount of HBAR through the Hedera Testnet to a MetaMask account. This can also be applied to other applications, and I encourage all to keep building.
 
 Feel free to reach out if you have any questions:
 
