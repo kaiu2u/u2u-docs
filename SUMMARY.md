@@ -5,7 +5,7 @@
   * [Introduction](getting-started/introduction.md)
   * [Environment Setup](getting-started/environment-set-up.md)
   * [Create an Account](getting-started/create-an-account.md)
-  * [Transfer HBAR](getting-started/transfer-hbar.md)
+  * [Transfer U2U](getting-started/transfer-hbar.md)
   * [Query Ledger Data](getting-started/query-data.md)
 * [Tutorials](tutorials/README.md)
   * [Smart Contracts](tutorials/smart-contracts/README.md)
