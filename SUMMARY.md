@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Hedera — let’s build the future](README.md)
+* [Welcome to unicorn ultra — let’s build the future](README.md)
 * [Getting Started](getting-started/README.md)
   * [Introduction](getting-started/introduction.md)
   * [Environment Setup](getting-started/environment-set-up.md)
